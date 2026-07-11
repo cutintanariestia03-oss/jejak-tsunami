@@ -26,7 +26,7 @@ Jejak Tsunami memungkinkan penulis (setelah login) untuk membuat, mengedit, dan 
 
 1. Clone repository ini
 ```
-   git clone [URL_REPO_KAMU]
+   git clone https://github.com/cutintanariestia03-oss/jejak-tsunami.git
    cd jejak-tsunami
 ```
 
