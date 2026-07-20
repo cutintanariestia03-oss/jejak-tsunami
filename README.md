@@ -1,6 +1,6 @@
 # Jejak Tsunami
 
-Aplikasi blog pribadi bertema sejarah, edukasi, dan kesiapsiagaan bencana tsunami Aceh, dibangun menggunakan Laravel. Proyek ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web Lanjut.
+Aplikasi blog pribadi bertema sejarah, edukasi, dan kesiapsiagaan bencana tsunami Aceh, dibangun menggunakan Laravel.Proyek ini dibangun secara khusus untuk menjadi wadah digital perwakilan Museum Tsunami Aceh. Proyek ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web Lanjut, dengan misi utama membawa arsip sejarah ke ranah online.
 
 ## Deskripsi Aplikasi
 
@@ -14,6 +14,8 @@ Jejak Tsunami memungkinkan penulis (setelah login) untuk membuat, mengedit, dan 
 - Halaman publik: beranda, detail artikel, pencarian, filter kategori
 - Halaman statis: Sejarah, Kisah & Kenangan, Edukasi, Galeri, Tentang Kami, Kebijakan Privasi, Syarat & Ketentuan, Kontak
 - Proteksi kepemilikan: pengguna hanya dapat mengedit/menghapus artikel dan kategori miliknya sendiri
+- Artikel Tersimpan (Bookmark):Pengguna yang sudah login dapat menyimpan artikel ke dalam koleksi bacaan pribadi.
+
 
 ## Teknologi yang Digunakan
 
@@ -90,3 +92,4 @@ Jejak Tsunami memungkinkan penulis (setelah login) untuk membuat, mengedit, dan 
 ## Sumber
 
 Beberapa konten artikel disadur dan ditulis ulang dari liputan publik seputar peringatan tsunami Aceh 2004.
+Ikon dan gambar bersumber dari referensi edukasi kebencanaan.
